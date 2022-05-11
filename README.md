@@ -1,4 +1,4 @@
-# landingPage Tailwind
+# Landing Page of travels
 
 Practica de tailwind basico
 
@@ -21,6 +21,7 @@ Inicia el ./public/index.html  tu navegador
 * JavaScript 
 * HTML
 * CSS
+* Tailwind
 
 ## Contribuyendo 🖇️
 
